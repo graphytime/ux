@@ -26,7 +26,7 @@
 # 설치형 Git Server
 	1. Bonobo Git Server 
 	- 윈도우용 무료 Git서버 
-	- IIS에서 설치 가능
+	- IIS에서 설치 가능 
 
 
 # 코드 공유 서비스
