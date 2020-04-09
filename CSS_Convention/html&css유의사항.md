@@ -7,6 +7,7 @@
 * 클래스명에 예약어 사용하지 않기 충돌위험이 큼
 * 애매한 클래스명은 쓰지 않고, 풀네임을 지향
 * 클래스명을 넣어주는게 나은지 잘 확장성이나 동적인 요소 생각해서 움직일것
+* 클래스명은 최대 3~4개
 
 * ID는 Style로 사용하지 않음
 * id는 page당 1개를 사용
@@ -34,7 +35,7 @@
 ```
 * bg이미지는 position값이 항상 5단위 10단위로 끊어지게
 * 이메일, 모바일, 전화와 같은 html은 a태그를 넣어서 연결이 가능하도록
-* img영역같은 경우, width와 height로 강제적으로 넣지 말고 img밖은 overflow:hidden과 img는 position값으로 비율이 무너지지 않도록 
+* img영역같은 경우, width와 height로 강제적으로 넣지 말고 img밖은 overflow:hidden과 img는 position값으로 비율이 무너지지 않도록
 * 경로는 절대경로로 넣어서 쓰도록
 * bg이미지는 position값이 항상 5단위 10단위로 끊어지게
 
@@ -57,7 +58,7 @@
 * 변화가 생기는 점을 고려해서 마크업을 해야 함.
 * 눌렀을 때 동작이 되는 것은 동작 되게끔 만들어 줘야 한다.
 * 부수적으로 표현되는 것들은 클래스명을 다르게 해야한다.<br>
-지양) btn_small btn_white x / 지향) btn_small type_white 
+지양) btn_small btn_white x / 지향) btn_small type_white
 ```
 
 
@@ -83,3 +84,5 @@
 |    전체선택    | *                 |
 
 
+## title
+ * 링크에 연관된 title 잘써주세요
