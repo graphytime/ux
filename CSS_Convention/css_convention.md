@@ -15,11 +15,11 @@
 > ## 1. 레이아웃
 > >### 표시	
 > >```
-> >display, visibility, clip, z-index<br>
+> >display, visibility, clip, z-index
 > >```
 > >### 넘침
 > >```
-> >verflow, overflow-x, overflow-y<br>
+> >verflow, overflow-x, overflow-y
 > >```
 > >### 흐름	float
 > >```
@@ -27,7 +27,7 @@
 > >```
 > >### 플로팅 레이아웃 (흐름)
 > >```
-> >float, clear<br>
+> >float, clear
 > >```
 > >### 포지셔닝 레이아웃 (위치)	
 > >```
@@ -41,11 +41,11 @@
 > ## 2. box
 > >### 크기	
 > >```
-> >width, height
+> >width, height, max-width, min-width,
 > >```
 > >### 간격
 > >```
-> >margin, padding, max-width, padding-top, padding-right, padding-bottom, padding-left, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse
+> >margin, padding, padding-top, padding-right, padding-bottom, padding-left, margin, margin-top, margin-right, margin-bottom, margin-left, margin-collapse, margin-top-collapse, margin-right-collapse, margin-bottom-collapse, margin-left-collapse
 > >```
 ---
 > ## 3. border/bg
@@ -61,7 +61,7 @@
 > ## 4. font
 > >### 폰트	
 > >```
-> >font, letter-spacing, text-align, text-decoration, text-indent, white-space, font-family, font-size, font-smoothing, font-style, font-weight, hyphens, src, line-height, word-spacing, color, text-overflow, text-rendering, text-size-adjust, text-shadow, text-transform, word-break, word-wrap, vertical-align, list-style, list-style-type, list-style-position, list-style-image, pointer-events, cursor
+> >font, font-style, font-variant, font-weight, font-size, line-height, font-family, color, letter-spacing, text-align, text-decoration, text-overflow, text-indent, vertical-align, white-space, word-spacing, ext-size-adjust, text-shadow, text-transform, word-break, word-wrap, font-smoothing, text-rendering, list-style, list-style-type, list-style-position, list-style-image, pointer-events, cursor
 > >```
 ---
 > ## 5. etc.
